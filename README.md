@@ -1,1 +1,1 @@
-My Portfolio Application by using HTML and CSS
+My Portfolio Application by using HTML, CSS and JavaScript
